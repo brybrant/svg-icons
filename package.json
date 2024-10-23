@@ -1,0 +1,12 @@
+{
+  "name": "@brybrant/svg-icons",
+  "author": "brybrant",
+  "license": "GPL-3.0-only",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brybrant/svg-icons.git"
+  }
+}
