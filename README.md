@@ -16,4 +16,5 @@
 - [Patreon](https://www.patreon.com/en-GB/brand)
 - [PayPal](https://newsroom.paypal-corp.com/media-resources)
 - [Twitch](https://brand.twitch.com/)
+- [X](https://about.x.com/en/who-we-are/brand-toolkit)
 - [YouTube](https://www.youtube.com/howyoutubeworks/resources/brand-resources/#logos-icons-and-colors)
